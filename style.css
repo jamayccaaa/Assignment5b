@@ -1,0 +1,33 @@
+#textbox {
+  font-size: 60px;        
+  font-weight: bold;
+  color: red;            
+  font-family: "Georgia", "Arial Black", sans-serif;
+  margin-top: 20px;
+  text-align: center;
+}
+
+header {
+  padding: 1em;
+  background: #333;
+  text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  max-width: 800px;
+  padding: 1em;
+  margin: 0 auto;
+  font-family: "Georgia", "Arial Black", sans-serif;
+}
